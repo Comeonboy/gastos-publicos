@@ -1,0 +1,335 @@
+[{
+	"values":[
+	{
+		"ele":2746428,
+		"type":"Administração"
+	},
+	{
+		"ele":503353,
+		"type":"Agricultura"
+	},
+	{
+		"ele":133750,
+		"type":"Assistência Social"
+	},
+	{
+		"ele":348968,
+		"type":"Ciência e Tecnologia"
+	},
+	{
+		"ele":326347,
+		"type":"Comércio e Serviços"
+	},
+	{
+		"ele":5099,
+		"type":"Comunicações"
+	},
+	{
+		"ele":151464,
+		"type":"Cultura"
+	},
+	{
+		"ele":75537,
+		"type":"Desporto e Lazer"
+	},
+	{
+		"ele":27321,
+		"type":"Direitos da Cidadania"
+	},
+	{
+		"ele":7935004,
+		"type":"Educação"
+	},
+	{
+		"ele":24350991,
+		"type":"Encargos Especiais"
+	},
+	{
+		"ele":50008,
+		"type":"Energia"
+	},
+	{
+		"ele":1274285,
+		"type":"Essencial À Justiça"
+	},
+	{
+		"ele":278941,
+		"type":"Gestão Ambiental"
+	},
+	{
+		"ele":179484,
+		"type":"Habitação"
+	},
+	{
+		"ele":273668,
+		"type":"Indústria"
+	},
+	{
+		"ele":2983850,
+		"type":"Judiciária"
+	},
+	{
+		"ele":1152828,
+		"type":"Legislativa"
+	},
+	{
+		"ele":8862,
+		"type":"Organização Agrária"
+	},
+	{
+		"ele":12334262,
+		"type":"Previdência Social"
+	},
+	{
+		"ele":218,
+		"type":"Relações Exteriores"
+	},
+	{
+		"ele":23271,
+		"type":"Saneamento"
+	},
+	{
+		"ele":4806009,
+		"type":"Saúde"
+	},
+	{
+		"ele":6466038,
+		"type":"Segurança Pública"
+	},
+	{
+		"ele":43701,
+		"type":"Trabalho"
+	},
+	{
+		"ele":54132,
+		"type":"Urbanismo"
+	},
+	{
+		"ele":1666169,
+		"type":"Transporte"
+	},
+	{
+		"ele":342459,
+		"type":"outros"
+	}],
+	"total": 68542461
+		
+},
+{
+	"values":[
+	{
+		"ele":3242262,
+		"type":"Administração"
+	},
+	{
+		"ele":589760,
+		"type":"Agricultura"
+	},
+	{
+		"ele":84117,
+		"type":"Assistência Social"
+	},
+	{
+		"ele":307823,
+		"type":"Ciência e Tecnologia"
+	},
+	{
+		"ele":118167,
+		"type":"Comércio e Serviços"
+	},
+	{
+		"ele":2004,
+		"type":"Comunicações"
+	},
+	{
+		"ele":151684,
+		"type":"Cultura"
+	},
+	{
+		"ele":47433,
+		"type":"Desporto e Lazer"
+	},
+	{
+		"ele":28479,
+		"type":"Direitos da Cidadania"
+	},
+	{
+		"ele":8280677,
+		"type":"Educação"
+	},
+	{
+		"ele":2152342,
+		"type":"Encargos Especiais"
+	},
+	{
+		"ele":1411899,
+		"type":"Essencial À Justiça"
+	},
+	{
+		"ele":310462,
+		"type":"Gestão Ambiental"
+	},
+	{
+		"ele":233968,
+		"type":"Habitação"
+	},
+	{
+		"ele":104928,
+		"type":"Indústria"
+	},
+	{
+		"ele":3300309,
+		"type":"Judiciária"
+	},
+	{
+		"ele":1201330,
+		"type":"Legislativa"
+	},
+	{
+		"ele":6441,
+		"type":"Organização Agrária"
+	},
+	{
+		"ele":10860971,
+		"type":"Previdência Social"
+	},
+	{
+		"ele":0,
+		"type":"Relações Exteriores"
+	},
+	{
+		"ele":106372,
+		"type":"Saneamento"
+	},
+	{
+		"ele":6989307,
+		"type":"Saúde"
+	},
+	{
+		"ele":11444791,
+		"type":"Segurança Pública"
+	},
+	{
+		"ele":14985,
+		"type":"Trabalho"
+	},
+	{
+		"ele":95293,
+		"type":"Urbanismo"
+	},
+	{
+		"ele":1902530,
+		"type":"Transporte"
+	}],
+	"total": 72359432
+		
+},
+{
+	"values":[
+	{
+		"ele":2279388,
+		"type":"Administração"
+	},
+	{
+		"ele":626504,
+		"type":"Agricultura"
+	},
+	{
+		"ele":142628,
+		"type":"Assistência Social"
+	},
+	{
+		"ele":349209,
+		"type":"Ciência e Tecnologia"
+	},
+	{
+		"ele":57944,
+		"type":"Comércio e Serviços"
+	},
+	{
+		"ele":3131,
+		"type":"Comunicações"
+	},
+	{
+		"ele":140086,
+		"type":"Cultura"
+	},
+	{
+		"ele":18633,
+		"type":"Desporto e Lazer"
+	},
+	{
+		"ele":22744,
+		"type":"Direitos da Cidadania"
+	},
+	{
+		"ele":8051910,
+		"type":"Educação"
+	},
+	{
+		"ele":22940871,
+		"type":"Encargos Especiais"
+	},
+	{
+		"ele":1687467,
+		"type":"Essencial À Justiça"
+	},
+	{
+		"ele":336246,
+		"type":"Gestão Ambiental"
+	},
+	{
+		"ele":64015,
+		"type":"Habitação"
+	},
+	{
+		"ele":49660,
+		"type":"Indústria"
+	},
+	{
+		"ele":3847381,
+		"type":"Judiciária"
+	},
+	{
+		"ele":1235266,
+		"type":"Legislativa"
+	},
+	{
+		"ele":251,
+		"type":"Organização Agrária"
+	},
+	{
+		"ele":1288884,
+		"type":"Previdência Social"
+	},
+	{
+		"ele":0,
+		"type":"Relações Exteriores"
+	},
+	{
+		"ele":192027,
+		"type":"Saneamento"
+	},
+	{
+		"ele":7945616,
+		"type":"Saúde"
+	},
+	{
+		"ele":14767526,
+		"type":"Segurança Pública"
+	},
+	{
+		"ele":17825,
+		"type":"Trabalho"
+	},
+	{
+		"ele":122278,
+		"type":"Urbanismo"
+	},
+	{
+		"ele":911502,
+		"type":"Transporte"
+	}],
+	"total": 78698970
+		
+}]
